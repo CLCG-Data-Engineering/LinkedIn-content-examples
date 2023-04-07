@@ -4,4 +4,4 @@ This post is about the pros and cons for the following data structures
 - Set
 - Dict
 
-Click [here]() to go to the LinkedIn post
+Click [here](https://www.linkedin.com/posts/luuk-mes_python-data-structure-pros-and-cons-activity-7047454983637618688-Vknw) to go to the LinkedIn post
